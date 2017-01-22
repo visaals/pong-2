@@ -1,8 +1,11 @@
 # pong^2
-A fun little game I made with a twist on the classic: Pong.
+
+A twist on the original Pong. Instead of the ball bouncing with a linear trajectory, it bounces with a parabolic trajectory! 
+
+Keep score with the rally counter on the top right!
+(hardcore gamers be warned, the counter only goes up to 2147483647)
 
 
-![Alt text](/pong-2/screenshot.png?raw=true "Optional Title")
 
 ![ScreenShot](https://raw.github.com/visaals/pong-2/master/screenshot.png)
 
